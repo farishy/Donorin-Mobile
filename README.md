@@ -26,11 +26,11 @@ Demo Apps [link](https://www.youtube.com/watch?v=qF4w7pCKABk&ab_channel=JTIKPNJ)
 
 ### [Screenshoot Transaction and Questionnaire]
 
-<img src="/screenshot/transaksi.jpeg" width="270" height="585"> <img src="/app/ss/kuesioner.jpeg" width="270" height="585">
+<img src="/screenshot/transaksi.jpeg" width="270" height="585"> <img src="/screenshot/kuesioner.jpeg" width="270" height="585">
 
 ### [Screenshoot Article List and Article]
 
-<img src="/screenshot/artikel.jpeg" width="270" height="585"> <img src="/app/ss/artikelDetails.jpeg" width="270" height="585">
+<img src="/screenshot/artikel.jpeg" width="270" height="585"> <img src="/screenshot/artikelDetails.jpeg" width="270" height="585">
 
 ### [Screenshoot Event]
 
