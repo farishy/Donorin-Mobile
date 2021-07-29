@@ -1,0 +1,15 @@
+import Home from '../pages/Home'
+import News from './News'
+import Event from './Event'
+import Account from './Account'
+import Splash from './Splash'
+import Login from './Login'
+import Register from './Register'
+import UpdateAccount from './UpdateAccount'
+import Kuesioner from './Kuesioner'
+import StatusTransaksi from './StatusTransaksi'
+import Transaksi from './Transaksi'
+import LihatTransaksi from './LihatTransaksi'
+import Browser from './Browser'
+
+export {Home, News, Event, Account, Splash, Login, Register, UpdateAccount, Kuesioner, StatusTransaksi, Transaksi, LihatTransaksi, Browser}
